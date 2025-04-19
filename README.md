@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tiendrebeogo Abdel Latif</h1>
-<h3 align="center">A passionate developer from Burkina Faso</h3>
+<h3 align="center">A passionate developer from GHANA</h3>
 
 - 🔭 I’m currently working on **a security app**
 
